@@ -13,7 +13,7 @@ At startup ZeroNet tries to open a port for you on your router using
 or [http://192.168.0.1](http://192.168.0.1)
 - Look for an "Enable UPnP support" or similar option then restart ZeroNet.
 
-If it still doesn't work then try to find a 'port forwarding' section of your router page. This is different for every router. [Here is a tutorial on YouTube.](https://www.youtube.com/watch?v=aQXJ7sLSz14) The port to forward is 15441.
+If it still doesn't work then try to find a 'port forwarding' section of your router page. This is different for every router. [Here is a tutorial on YouTube.](https://www.youtube.com/watch?v=aQXJ7sLSz14) The port to forward is 37825.
 
 
 ---
